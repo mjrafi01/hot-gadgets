@@ -1,0 +1,17 @@
+
+.nbar a{
+    color: black;
+    margin-bottom: none;
+}
+.buy-now-btn{
+background: black;
+border: none;
+
+}
+.curosel{
+    margin: 0px 50px;
+    background-image: url(bg-1.png);
+    
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
