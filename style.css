@@ -1,4 +1,6 @@
-
+*{
+    margin: 0px;
+}
 .nbar a{
     color: black;
     margin-bottom: none;
@@ -14,4 +16,31 @@ border: none;
     
     background-repeat: no-repeat;
     background-position-x: center;
+}
+.mobilecat{
+    margin: 50px 50px;
+}
+.Cataheading{
+    width: 50%;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.mobilecard{
+    margin: 100px;
+}
+.card-title{
+    text-align: center;
+}
+.price{
+    text-align: center;
+    font-weight: bolder;
+   font-size: 40px;
+}
+.buy-now-btn2{
+position:relative;
+right:-110px;
+overflow: hidden;
+}
+.Categories{
+    margin:150px 50px ;
 }
